@@ -12,6 +12,12 @@ Project Description/Outline:
 - Linear Regression Charts 
 - Clean The Data 
 - Convert KG To LB's 
+- Change Value For Mood, Active/Inactive. 
+- Change Title For bool_of_active
+- Use Google Slides For Presentation
+- Consider Removing Calories Burned (Useless Info?)
+
+
 
 Research Questions: 
 1. Does working out help a person become more active overall? 
@@ -21,6 +27,10 @@ Research Questions:
 3. If You Sleep More Will Your Mood Be Higher
 
 4. Inactive Days Vs Active Days Compare Mood, Sleep ETC.
+
+5. Mood Vs Stepcount 
+
+6. 
 
 Datasets To Be Used: 
 https://www.kaggle.com/datasets/aroojanwarkhan/fitness-data-trends
