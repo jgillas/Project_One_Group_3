@@ -3,7 +3,7 @@
 Title: Personal Fitness Analyst
 Team Members: Julia, Joseph, Kiana, Luis
 
-Project Description: 
+Project Description/Outline: 
 
 
 Research Questions: 
