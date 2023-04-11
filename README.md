@@ -2,7 +2,9 @@
 
 Title: Personal Fitness Analyst
 Team Members: Julia, Joseph, Kiana, Luis
+
 Project Description: 
+
 
 Research Questions: 
 1. Does working out help a person become more active overall? 
@@ -12,4 +14,4 @@ Research Questions:
 Datasets To Be Used: 
 https://www.kaggle.com/datasets/aroojanwarkhan/fitness-data-trends
 
-Rough Breakdown Of Tasks:
+Rough Breakdown Of Tasks: 
