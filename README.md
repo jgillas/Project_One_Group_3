@@ -4,6 +4,9 @@ Title: Personal Fitness Analyst
 Team Members: Julia, Joseph, Kiana, Luis
 
 Project Description/Outline: 
+- Finding Out The Research Questions 
+- Come Up With Some Additional Questions That Help Answer The Overall Question
+- Start By Importing The Data/CSV File
 
 
 Research Questions: 
