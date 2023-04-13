@@ -27,7 +27,7 @@ Complete From Outline
 Research Questions: 
 1. Does working out help a person become more active overall? 
 
-2. If You Sleep More Will Your Mood Be Higher
+2. If You Sleep More Will Your Mood Be Higher (The Effect Of Sleep On Mood)
 
 3. Inactive Days Vs Active Days Compare Mood, Sleep ETC.
 
