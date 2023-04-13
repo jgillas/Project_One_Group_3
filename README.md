@@ -12,7 +12,8 @@ Project Description/Outline:
 - Linear Regression Charts 
 - Use Google Slides For Presentation
 - Consider Removing Calories Burned (Useless Info?)
-- average sleep time 
+- Average Sleep Time
+- Group by inactive and active and get the mean
 
 Complete From Outline
 - Convert KG To LB's
