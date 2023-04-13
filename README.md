@@ -10,27 +10,29 @@ Project Description/Outline:
 - Stats Graphing 
 - Data Visualization
 - Linear Regression Charts 
-- Clean The Data 
-- Convert KG To LB's 
-- Change Value For Mood, Active/Inactive. 
-- Change Title For bool_of_active
 - Use Google Slides For Presentation
 - Consider Removing Calories Burned (Useless Info?)
+- Average Sleep Time
+- Group by inactive and active and get the mean
+
+Complete From Outline
+- Convert KG To LB's
+- Clean The Data
+- Change Value For Mood, Active/Inactive.
+- Change Title For bool_of_active
+
 
 
 
 Research Questions: 
 1. Does working out help a person become more active overall? 
- 
-2. What do the results tell you about individuals using this app? Have their lifestyles become more active? Less? Remained the same?
 
-3. If You Sleep More Will Your Mood Be Higher
+2. If You Sleep More Will Your Mood Be Higher (The Effect Of Sleep On Mood)
 
-4. Inactive Days Vs Active Days Compare Mood, Sleep ETC.
+3. Inactive Days Vs Active Days Compare Mood, Sleep ETC.
 
-5. Mood Vs Stepcount 
+4. Mood Vs Stepcount (Complete)
 
-6. 
 
 Datasets To Be Used: 
 https://www.kaggle.com/datasets/aroojanwarkhan/fitness-data-trends
