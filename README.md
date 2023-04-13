@@ -10,12 +10,16 @@ Project Description/Outline:
 - Stats Graphing 
 - Data Visualization
 - Linear Regression Charts 
-- Clean The Data 
-- Convert KG To LB's 
-- Change Value For Mood, Active/Inactive. 
-- Change Title For bool_of_active
 - Use Google Slides For Presentation
 - Consider Removing Calories Burned (Useless Info?)
+- average sleep time 
+
+Complete From Outline
+- Convert KG To LB's
+- Clean The Data
+- Change Value For Mood, Active/Inactive.
+- Change Title For bool_of_active
+
 
 
 
