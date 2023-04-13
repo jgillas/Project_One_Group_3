@@ -26,16 +26,13 @@ Complete From Outline
 
 Research Questions: 
 1. Does working out help a person become more active overall? 
- 
-2. What do the results tell you about individuals using this app? Have their lifestyles become more active? Less? Remained the same?
 
-3. If You Sleep More Will Your Mood Be Higher
+2. If You Sleep More Will Your Mood Be Higher
 
-4. Inactive Days Vs Active Days Compare Mood, Sleep ETC.
+3. Inactive Days Vs Active Days Compare Mood, Sleep ETC.
 
-5. Mood Vs Stepcount 
+4. Mood Vs Stepcount 
 
-6. 
 
 Datasets To Be Used: 
 https://www.kaggle.com/datasets/aroojanwarkhan/fitness-data-trends
