@@ -11,7 +11,6 @@ Project Description/Outline:
 - Data Visualization
 - Linear Regression Charts 
 - Use Google Slides For Presentation
-- Consider Removing Calories Burned (Useless Info?)
 - Average Sleep Time
 - Group by inactive and active and get the mean
 
