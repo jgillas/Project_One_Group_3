@@ -53,8 +53,7 @@ Project Requirements For Grade
 - Each question response is supported with a well-discerned statistical analysis from lessons (e.g., aggregation, correlation, comparison, summary statistics, - sentiment analysis, and time series analysis) (5 points)
 - All group members spoke during the presentation (5 points)
 - Group was well prepared (5 points)
-- Presentation is relevant to material (5 points)
-- Presentation maintains audience interest (5 points)
+
 ##
 - Slides are visually clean and professional (5 points)
 - Slides are relevant to material (5 points)
