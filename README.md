@@ -51,8 +51,6 @@ Project Requirements For Grade
 - Each question in the project proposal is answered with precise descriptions and findings (5 points)
 - Findings are strongly supported with numbers and visualizations (5 points)
 - Each question response is supported with a well-discerned statistical analysis from lessons (e.g., aggregation, correlation, comparison, summary statistics, - sentiment analysis, and time series analysis) (5 points)
-- All group members spoke during the presentation (5 points)
-- Group was well prepared (5 points)
 
 ##
 - Slides are visually clean and professional (5 points)
