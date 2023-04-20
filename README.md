@@ -18,3 +18,11 @@ Have you ever wondered if being active actually made you feel more or less activ
 - Kiana-Powerpoint 5-6,9, Coding, Proposal
 - Luis-Code walkthrough, Coding, Proposal
 - Joey-Powerpoint 1,7-8, Coding, Proposal
+
+## Graphs
+![BarChartCalories](https://user-images.githubusercontent.com/125215083/233240218-1693b60a-a0fb-4aee-9c5c-29e3a6f140a7.png)
+![PieChart](https://user-images.githubusercontent.com/125215083/233240222-623bd442-1f8e-4a87-b03d-4c2118044475.png)
+![BoxAndWiskerMood](https://user-images.githubusercontent.com/125215083/233240231-f0d9fa37-0f85-47f3-80b2-18c862ff48b7.png)
+![BoxAndWiskerStep](https://user-images.githubusercontent.com/125215083/233240239-4a9ffb4d-7d93-45f6-bd76-62d402be5742.png)
+![Linregress](https://user-images.githubusercontent.com/125215083/233240245-418abf92-e347-4ac7-b29a-764789a1a0e6.png)
+![BarChartSleep](https://user-images.githubusercontent.com/125215083/233240253-6fc905a7-f68d-47e1-8b5d-4220aa533d21.png)
